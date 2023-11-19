@@ -1,4 +1,4 @@
-### Hi there 👋
+(https://github.com/Serters/Serters/blob/main/githubSertersBanner.png)
 
 <!--
 **Serters/Serters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
