@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://github.com/Serters/Serters/blob/main/githubSertersBanner.png" alt="CodeChest" width="80%">
+  <img src="https://github.com/Serters/Serters/blob/main/banner.png" alt="CodeChest" width="100%">
 </div>
 
 <p align="left">
