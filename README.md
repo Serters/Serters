@@ -6,7 +6,7 @@
 
   <a href="https://github.com/Serters/Serters/"><img src="https://readme-typing-svg.demolab.com?font=Fir+Code&pause=1500&color=86FFCA&background=1E1F22&vCenter=true&random=false&width=220&height=20&lines=Languages+and+Tools%3A" alt="Typing SVG" /></a>
   </br>
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/Serters/Serters/">
   <img src="https://skillicons.dev/icons?i=git,html,css,js,python,java,mongodb,mysql" />
   </a>
 
