@@ -11,7 +11,7 @@
   <img alt="js" src="./assets/langs/js.svg">
   <img alt="python" src="./assets/langs/python.svg">
   <img alt="java" src="./assets/langs/javaew.svg">
-  <img alt="mysql" src="./assets/langs/mysql.svg">
+  <img alt="mysql" src="./assets/langs/my-sql.svg">
   <img alt="mongodb" src="./assets/langs/mongo.svg">
   <img alt="git" src="./assets/langs/git.svg">
 </div>
