@@ -5,14 +5,14 @@
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fir+Code&pause=2500&color=86FFCA&background=1E1F22&vCenter=true&random=false&width=220&height=20&lines=Languages+and+Tools%3A" alt="Languages"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=html" alt="html"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="css"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="js"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="python"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="java"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="git"/>
 </div>
 
 <div align="left">
