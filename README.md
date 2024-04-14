@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://github.com/Serters/Serters/blob/main/assets/welcome-banner.webp" alt="Welcome to my profile!" width="1743" height="231">
+  <img src="https://github.com/Serters/Serters/blob/main/assets/welcome-banner.webp" alt="Welcome to my profile!" width="846" height="113">
 </div>
 
 <div align="left">
