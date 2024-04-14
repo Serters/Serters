@@ -3,20 +3,20 @@
 </div>
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fir+Code&pause=2500&color=86FFCA&background=1E1F22&vCenter=true&random=false&width=220&height=20&lines=Languages+and+Tools%3A" alt="Languages"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fir+Code&pause=2500&color=86FFCA&background=1E1F22&vCenter=true&random=false&width=220&height=20&lines=Languages+and+Tools%3A" alt="Languages" height="20" width="220"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=html" alt="html"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="css"/>
-  <img src="https://skillicons.dev/icons?i=js" alt="js"/>
-  <img src="https://skillicons.dev/icons?i=python" alt="python"/>
-  <img src="https://skillicons.dev/icons?i=java" alt="java"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="git"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="html" height="48" width="48"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="css" height="48" width="48"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="js" height="48" width="48"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="python" height="48" width="48"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="java" height="48" width="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" height="48" width="48"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" height="48" width="48"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="git" height="48" width="48"/>
 </div>
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2500&color=86FFCA&background=1E1F22&vCenter=true&random=false&width=140&height=20&lines=My+projects%3A" alt="My Projects" />  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2500&color=86FFCA&background=1E1F22&vCenter=true&random=false&width=140&height=20&lines=My+projects%3A" alt="My Projects" height="20" width="140"/>  
   <br/>
   <img src="https://github.com/Serters/Serters/blob/main/assets/projects/ConsoleCoatCraft.svg" href="https://github.com/Serters/ConsoleCoatCraft" alt="ConsoleCoatCraft" height="48" width="48"/>
   <img src="https://github.com/Serters/Serters/blob/main/assets/projects/CodeChest.svg" href="https://github.com/Serters/CodeChest" alt="CodeChest" height="48" width="48"/>
