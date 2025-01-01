@@ -1,8 +1,4 @@
 <div align="left">
-  <img src="https://github.com/Serters/Serters/blob/main/assets/welcome-banner.webp" alt="Welcome to my profile!" width="846" height="113">
-</div>
-
-<div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fir+Code&pause=2500&color=86FFCA&background=1E1F22&vCenter=true&random=false&width=220&height=20&lines=Languages+and+Tools%3A" alt="Languages" height="20" width="220"/>
   <br/>
   <img src="https://skillicons.dev/icons?i=dotnet" alt="git" height="48" width="48"/>
@@ -12,6 +8,8 @@
   <img src="https://skillicons.dev/icons?i=html" alt="html" height="48" width="48"/>
   <img src="https://skillicons.dev/icons?i=css" alt="css" height="48" width="48"/>
   <img src="https://skillicons.dev/icons?i=js" alt="js" height="48" width="48"/>
+  <img src="https://skillicons.dev/icons?i=ts" alt="ts" height="48" width="48"/>
+  <img src="https://skillicons.dev/icons?i=angular" alt="angular" height="48" width="48"/>
   <img src="https://skillicons.dev/icons?i=git" alt="git" height="48" width="48"/>
 </div>
 
