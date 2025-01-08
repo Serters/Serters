@@ -10,6 +10,7 @@
   <img src="https://skillicons.dev/icons?i=js" alt="js" height="48" width="48"/>
   <img src="https://skillicons.dev/icons?i=ts" alt="ts" height="48" width="48"/>
   <img src="https://skillicons.dev/icons?i=angular" alt="angular" height="48" width="48"/>
+  <img src="https://skillicons.dev/icons?i=rust" alt="git" height="48" width="48"/>
   <img src="https://skillicons.dev/icons?i=git" alt="git" height="48" width="48"/>
 </div>
 
