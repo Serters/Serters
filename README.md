@@ -27,7 +27,6 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Serters/Serters/blob/main/assets/projects/VTSFIT-dark.svg" height="48" width="48">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/Serters/Serters/blob/main/assets/projects/VTSFIT-light.svg" height="48" width="48">
-      <img alt="VTSFit" src="https://github.com/Serters/Serters/blob/main/assets/projects/VTSFIT-dark.svg" height="48" width="48">
   </picture>
   </a>
 </div>
